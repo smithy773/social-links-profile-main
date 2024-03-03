@@ -8,7 +8,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - [Screenshot](#screenshot)
 - [Links](#links)
 - [Built with](#built-with)
-- [Continued development](#continued-development)
 - [Author](#author)
 
 ### The challenge
@@ -19,11 +18,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/image.png)
+![](./assets/images/screen-desk.PNG)
+![](./assets/images/screen-mobile-1.PNG)
+![](./assets/images/screen-mobile-2.PNG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub)
 - Live Site URL: [GitHub Pages](https://smithy773.github.io/social-links-profile-main/)
 
 ### Built with
@@ -33,10 +34,6 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Desktop-first workflow
-
-### Continued development
-
-Must make the website responsive or at least mobile-friendly.
 
 ## Author
 

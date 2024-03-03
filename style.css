@@ -96,3 +96,16 @@ body {
 .attribution a {
   color: #3e52a3;
 }
+
+@media (max-width: 27.8em) {
+  .container {
+    padding: 2.5rem 1.563rem;
+    margin: 7rem auto;
+  }
+}
+
+@media (max-width: 23.25em) {
+  .container {
+    border-radius: 0;
+  }
+}
